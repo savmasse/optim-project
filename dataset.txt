@@ -1,0 +1,85 @@
+# dataset dataset.txt
+# gersten	gisten	hoppen	maischproces	mouten	moutextracten	moutproces
+
+# gersten
+# naam	EBC	kost	waardering
+gerst01	65	0.101	3
+gerst02	124	0.11	3
+gerst03	116	0.107	5
+gerst04	26	0.071	1
+gerst05	48	0.117	4
+gerst06	8	0.115	4
+gerst07	13	0.093	3
+gerst08	38	0.097	2
+gerst09	12	0.071	1
+gerst10	114	0.084	2
+gerst11	10	0.108	4
+gerst12	9	0.11	4
+
+# gisten
+# naam	kost	waardering
+gist01	98.8	5
+gist02	88.8	3
+gist03	85.0	3
+gist04	80.2	1
+gist05	72.7	1
+gist06	78.2	2
+gist07	93.5	3
+gist08	96.0	4
+gist09	80.8	2
+gist10	93.6	4
+gist11	93.2	4
+gist12	90.8	3
+
+# hoppen
+# naam	kost	waardering
+hop01	47.1	4
+hop02	34.4	1
+hop03	45.2	3
+hop04	49.1	4
+hop05	43.3	2
+hop06	46.2	3
+hop07	33.9	1
+hop08	39.8	2
+hop09	34.7	1
+hop10	47.2	5
+hop11	37.3	1
+hop12	40.2	2
+
+# maischproces
+# naam	variabelekost	vastekost
+maischproces	0.94	1072.0
+
+# mouten
+# naam	EBC	kost	waardering
+mout01	134	2.83	3
+mout02	15	3.07	3
+mout03	10	2.43	3
+mout04	7	2.17	2
+mout05	41	2.36	2
+mout06	53	2.0	1
+mout07	16	2.41	1
+mout08	28	2.98	4
+mout09	28	2.38	1
+mout10	7	2.85	4
+mout11	6	3.17	5
+mout12	91	2.9	4
+
+# moutextracten
+# naam	EBC	kost	waardering
+moutextract01	72	9.57	3
+moutextract02	66	8.32	1
+moutextract03	95	10.39	5
+moutextract04	125	8.11	1
+moutextract05	17	8.27	1
+moutextract06	115	9.83	4
+moutextract07	117	9.02	2
+moutextract08	16	9.64	3
+moutextract09	10	8.95	3
+moutextract10	9	8.23	1
+moutextract11	148	10.07	3
+moutextract12	7	8.48	2
+
+# moutproces
+# naam	variabelekost	vastekost
+moutproces	0.39	2410.0
